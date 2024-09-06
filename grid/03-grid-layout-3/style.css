@@ -125,7 +125,7 @@ li {
   display: grid;
   grid-row-start: 2;
   grid-row-end: 4;
-  gap: 200px;
+  gap: 50px;
 }
 .sidebar > div {
   display: grid;
